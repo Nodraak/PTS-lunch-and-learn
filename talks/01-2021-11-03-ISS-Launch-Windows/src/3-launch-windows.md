@@ -1,36 +1,14 @@
 # Going to the ISS: Launch Window Constraints
 
-## Launch Date and Time of Crew-3
-
-### Launch Date and Time
-
-::: {.block}
-#### Successive Launch Date And Time
-* Sun Oct 31 06:21 UTC (02:21 local)
-* Wed Nov 03 05:10 UTC (01:10 local)
-* Sun Nov 07 03:36 UTC (23:36 local)
-:::
-
-\pause
-
-Oddly specific date and time:
-
-* During the night
-* During the weekend
-* Precision down to the minute
-
-###
-
-::: {.block}
-#### The Question
-=> Which factors drives a launch date and time?
-:::
-
 ## Orbital Constraints
 
-### Constraint 1: Inclination
+### Constraint 1: Inclination - Theory
 
-* A given launch site crosses the plane twice a day (instantaneous window)
+![Source: \cite{baen:orbital-plane}](figure02.jpg){width="80%"}
+
+### Constraint 1: Inclination - Summary
+
+* A given launch site crosses the orbital plane twice a day (instantaneous window)
 
 \pause
 
@@ -38,7 +16,20 @@ Oddly specific date and time:
 
 ![Source: \cite{baen:dog-leg}](figure04.jpg){width="70%"}
 
-### Constraint 2: Launch Azimuth (Range Safety)
+### Constraint 2: Launch Azimuth - Launch Site
+
+* Launch sites:
+    * USA: Kennedy Space Center: 28.5°N
+    * USSR/Russia: Baikonur Cosmodrome: 46.0°N
+* Adjusting the inclination
+    * In flight: super expensive
+    * From launch:
+        * Going lower: very expensive
+        * Going higher: (relatively) easy
+\pause
+* -> ISS is the lowest inclination without overflying China or dropping spent rocket stages in inhabited areas => 51.6°N
+
+### Constraint 2: Launch Azimuth - ISS
 
 ![Source: \cite{nasaspaceflight:cape-canaveral-launch-azimuth}](image002.jpg){width=50%}
 
@@ -48,13 +39,21 @@ Oddly specific date and time:
 * ISS is at 51.6°N
 * Fun fact: Israel launches toward west
 
-### Constraint 3: Orbit Phasing
+### Constraint 3: Orbit Phasing - Altitude
+
+![Source: \cite{wikipedia:orbital-altitudes-earth}](Orbitalaltitudes-earth.jpg){width="75%"}
+
+* ISS: 370-460 km -> 93 minutes per orbit
+
+### Constraint 3: Orbit Phasing - ISS
+
+![Source: \cite{baen:phasing-orbit}](figure08.png){width="50%"}
+
+\pause
 
 * Launch when ISS is (approximately) overhead, to reduce phasing time as much as possible
 * Inclination is still more important
 * Soyuz's fast rendezvous: from 24-48h to 6h to 3h
-
-![Source: \cite{baen:phasing-orbit}](figure08.png){width="50%"}
 
 ## Range and Safety Constraints
 
@@ -64,7 +63,7 @@ NOTAM/NOTMAR:
 
 ![Source: \cite{stackexchange:exclusion-zones}](JAZ5p.jpg){width=50%}
 
-* There could be constraints (visit of the president, a 10 billions $ telescope traveling, ...)
+* There could be constraints (military exercise, visit of the president, a 10 billions $ telescope traveling, ...)
 
 ### Constraint 5: Abort Scenarios
 
@@ -77,11 +76,12 @@ NOTAM/NOTMAR:
     * Support available - ex: Space Shuttle's TAL abort mode
     * ...
 
+
 ## More Constraints
 
 ### Constraint 6: Flight Path and Target Conditions
 
-* Sun: power, temperature
+* Sun: visibility, temperature, power
     * Apollo: visibility required the Sun to be very low on the horizon
     * Space Shuttle: thermal control required specific Sun conditions (beta angle)
 
@@ -97,7 +97,7 @@ NOTAM/NOTMAR:
 \pause
 
 * Payload
-    * Humans, plants, animals, experiences, ...
+    * Humans, plants, animals, science material, ...
 
 \pause
 
