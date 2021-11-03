@@ -1,10 +1,10 @@
-# Going to the ISS: Launch Window Constraints
+# Going to the ISS: Launch Windows Constraints
 
 ## Orbital Constraints
 
 ### Constraint 1: Inclination - Theory
 
-![Source: \cite{baen:orbital-plane}](figure02.jpg){width="80%"}
+![Source: \cite{baen:rendezvous}](figure02.jpg){width="80%"}
 
 ### Constraint 1: Inclination - Summary
 
@@ -14,7 +14,7 @@
 
 * Can afford some misalignment: dogleg maneuver
 
-![Source: \cite{baen:dog-leg}](figure04.jpg){width="70%"}
+![Source: \cite{baen:rendezvous}](figure04.jpg){width="70%"}
 
 ### Constraint 2: Launch Azimuth - Launch Site
 
@@ -47,7 +47,7 @@
 
 ### Constraint 3: Orbit Phasing - ISS
 
-![Source: \cite{baen:phasing-orbit}](figure08.png){width="50%"}
+![Source: \cite{baen:rendezvous}](figure08.png){width="50%"}
 
 \pause
 

@@ -7,4 +7,6 @@
 * Try to dock to the ISS: <https://iss-sim.spacex.com/>
 * Learn orbital mechanics: Kerbal Space Program (KSP)
 
-![Source: \cite{ksp:screenshot}](ksp.jpg){width="50%"}
+    ![Source: \cite{ksp:screenshot}](ksp.jpg){width="50%"}
+
+* Slides: <https://github.com/Nodraak/PTS-lunch-and-learn>
