@@ -11,7 +11,8 @@
 |------------|------------------|-----------------------------------------------------------|
 | 2021-11-03 | Crew-3 (31 oct)  | ISS crew rotation (Matthias Maurer), ISS Launch Windows   |
 | 2021-11-17 | DART (24 nov)    | HERA, mech orb, asteroid destruction                      |
-| 2021-12-01 | JWST (18 dec)    | L2, temperature control                                   |
+| 2021-12-08 | JWST (18 dec)    | Lagrange points                                           |
+| 2021-12-15 | JWST (18 dec)    | Temperature control, sensors (IR), ...                    |
 | 2022-01-05 | PLD, Themis      | Propulsion, rocket design convergence (Falcon 9 type)     |
 | 2022-02-02 |  |  |
 | 2022-03-02 | A5 Heinrich Hertz | ? |
