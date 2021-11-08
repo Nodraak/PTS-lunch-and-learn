@@ -31,6 +31,11 @@ def build(c, talk):
 
 
 @task
+def build_handout(c, talk):
+    make(c, "build-handout", talk)
+
+
+@task
 def clean(c, talk):
     make(c, "clean", talk)
 

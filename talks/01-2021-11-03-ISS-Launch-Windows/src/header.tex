@@ -39,20 +39,6 @@
 %\def\input@path{{\pathCode}}
 %\makeatother
 
-
-%
-% Handout mode : two frames per page
-%
-
-\mode<handout>
-{
-    \pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]
-
-    % \setlength\arrayrulewidth{0.6pt}
-    \pgfpageslogicalpageoptions{1}{border code=\pgfusepath{stroke}}
-    \pgfpageslogicalpageoptions{2}{border code=\pgfusepath{stroke}}
-}
-
 %
 % Theme: Metropolis
 %
@@ -61,10 +47,20 @@
 
 % Conf
 
+\mode<beamer> {
 \metroset{
     sectionpage=simple,
     numbering=fraction,     % frame number on each slide
     block=fill,             % \begin{block} color
+}
+}
+
+\mode<handout> {
+\metroset{
+    sectionpage=none,
+    numbering=fraction,     % frame number on each slide
+    block=fill,             % \begin{block} color
+}
 }
 
 % Colors
@@ -128,6 +124,7 @@
 
     % toc
 
+    \mode<beamer> {
     \begin{frame}[noframenumbering,plain]
         \vspace{10pt}
         \begin{beamercolorbox}[sep=8pt,center]{section title}
@@ -140,6 +137,7 @@
             \tableofcontents[hidesubsections]
         }
     \end{frame}
+    }
 }
 
 \titlegraphic{
@@ -177,13 +175,6 @@
 %
 % Misc settings
 %
-
-% Font sizes:
-%   \normalsize (default)
-%   \small
-%   \footnotesize
-%   \scriptsize
-%   \tiny
 
 % multicol
 
