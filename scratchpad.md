@@ -15,3 +15,18 @@
     * Keep out sphere - 200 meters
         * 30 meters
         * 10 meters
+
+## DART/HERA
+
+* https://www.youtube.com/watch?v=U0nZvOm3bNs
+
+## Gravity
+
+* Kerbal Space Program - Principia - Doing Gravity Properly - Scott Manley
+    https://www.youtube.com/watch?v=eU-kLLeE7n0
+* The Most Confusing Things About Spacecraft orbits - Scott Manley
+    https://www.youtube.com/watch?v=i5XPFjqPLik
+* Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits Explained - Scott Manley
+    https://www.youtube.com/watch?v=PZAkiXNJIqc
+* How Gravity Assists Work - Scott Manley
+    https://www.youtube.com/watch?v=16jr7WWGSxo
