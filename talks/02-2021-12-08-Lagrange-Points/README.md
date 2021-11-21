@@ -6,7 +6,7 @@
     * https://en.wikipedia.org/wiki/Lagrange_point
     * https://www.youtube.com/watch?v=KIw_KsEbl3g - Les mystères de Lagrange. - ASTRONOGEEK
     * https://www.youtube.com/watch?v=BTaPtvxa_Uo - Joseph Lagrange - les 2 lunes de la Terre - LPPV.06 - e-penser
-    * https://www.youtube.com/watch?v=7PHvDj4TDfM - What Makes Lagrange Points Special Locations In Space
+    * https://www.youtube.com/watch?v=7PHvDj4TDfM - What Makes Lagrange Points Special Locations In Space - Scott Manley
 * L2 / JWST
     * https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
     * https://en.wikipedia.org/wiki/Timeline_of_the_James_Webb_Space_Telescope
@@ -15,9 +15,12 @@
     * https://twitter.com/FlashCordon/status/1452232401149644803?s=20 - @FlashCordon
     * https://www.youtube.com/watch?v=4P8fKd0IVOs - How Does The James Webb Space Telescope Work? - Smarter Every Day 262
     * https://www.youtube.com/watch?v=snz7JJlSZvw - Telescope Building with John Dobson
+    * https://www.youtube.com/watch?v=2ELbHJ8LLNI - La capsule
 * L1 / DSCOVR
     * https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory
     * https://www.youtube.com/results?search_query=DSCOVR
+    * Views Of Earth and the Seasons From A Million Miles Away - DSCOVR & EPIC - Scott Manley
+        * https://www.youtube.com/watch?v=xPM2kITNtTs
 
 ## TOC
 
@@ -31,6 +34,8 @@
 * Conclusion
 
 ## Scratchpad
+
+### Wikipedia
 
 **Intro**
 
@@ -116,3 +121,41 @@ LOPG    Earth–Moon L2 - near-rectilinear halo orbit (NRHO)
 The Gateway is planned to be deployed in a highly elliptical seven-day near-rectilinear halo orbit (NRHO) around the Moon, which would bring the station within 3,000 km (1,900 mi) of the lunar north pole at closest approach and as far away as 70,000 km (43,000 mi) over the lunar south pole.[3][37][38] Traveling to and from cislunar space (lunar orbit) is intended to develop the knowledge and experience necessary to venture beyond the Moon and into deep space. The proposed NRHO would allow lunar expeditions from the Gateway to reach a low polar orbit with a delta-v of 730 m/s and a half a day of transit time. Orbital station-keeping would require less than 10 m/s of delta-v per year, and the orbital inclination could be shifted with a relatively small delta-v expenditure, allowing access to most of the lunar surface. Spacecraft launched from Earth would perform a powered flyby of the Moon (delta-v ≈ 180 m/s) followed by a ≈240 m/s delta-v NRHO insertion burn to dock with the Gateway as it approaches the apoapsis point of its orbit. The total travel time would be 5 days; the return to Earth would be similar in terms of trip duration and delta-v requirement if the spacecraft spends 11 days at the Gateway. The crewed mission duration of 21 days and ≈840 m/s delta-v are limited by the capabilities of the Orion life support and propulsion systems.[39]
 
 One of the advantages of an NRHO is the minimal amount of communications blackout with the Earth.
+
+### Scott Manley
+
+* [ 0:50] Euler -> E1, E2, E3  + L4, L5
+* [ 1:00] 2 body = easy; closed solution (Newton) ; 3 body = hard, chaos, no analytical solution, need integration
+* [ 2:08] Simplification: Circular co-planar restricted 3 body problem
+* [ 4:20] Gravity of the Sun, Earth, centrifugal, sum of all
+* [ 7:15] L4 and L5 are stable
+* [ 8:00] L4-L5 stability: Coriolis force
+* [ 9:05] L4-L5 stability: mass ratio
+* [ 9:50] Earth-Moon L4-L5: not totally stable
+* [10:40] Earth-Moon L2: Halo orbit -> constant visibility
+* [11:50] Sun-Earth L1: DSCOVR
+* [12:35] Sun-Earth L2: good for telescopes
+
+### Astronogeek
+
+* [ 0:50] Newton: 2 body, easy. 3 body: hard.
+* [ 1:05] Lagrange 1772. Simplifications
+* [ 2:35] Gravity: Sun, Earth
+* [ 4:50] L1: lower orbit = faster orbit
+* [ 5:50] L1: Earth lower Sun's gravity, hense "fixes" the orbit's velocity
+* [ 7:02] L2: Earth increases the Sun's gravity
+* [ 8:05] L3
+* [ 8:30] L3 is closer to Sun, but on a higher orbit.
+* [ 8:40] Answer: barycenter
+* [ 9h15] L3: here is a better schema
+* [10h15] L4 and L5. Like L3, slightly higher orbit
+* [11:30] L4 and L5: only at exactly L points are the forces nullified. But actually no, the points are stable.
+* [11:50] Earth-Moon L4 and L5: dust cloud
+* [11:55] Sun-Jupiter L4 and L5: asteroids: trojans and greeks
+* [12:40] trojans is general term
+
+### E-penser
+
+* No L points for Mercure and Venus -> too close to the Sun
+* No L points for Saturne -> Jupiter is too big (it was *this* to being a Star)
+
