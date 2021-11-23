@@ -16,6 +16,11 @@
     * https://www.youtube.com/watch?v=4P8fKd0IVOs - How Does The James Webb Space Telescope Work? - Smarter Every Day 262
     * https://www.youtube.com/watch?v=snz7JJlSZvw - Telescope Building with John Dobson
     * https://www.youtube.com/watch?v=2ELbHJ8LLNI - La capsule
+    * https://twitter.com/EricLagadec/status/1462777992543981569
+    * https://www.stsci.edu/~idash/pub/dashevsky0607rcsgso.pdf - JWST: MAXIMIZING EFFICIENCY AND MINIMIZING GROUND SYSTEMS
+    * https://www.nasa.gov/feature/goddard/2021/how-to-ship-the-world-s-largest-space-telescope-5800-miles-across-the-ocean
+    * https://www.nasa.gov/feature/goddard/2018/follow-the-sttars-to-find-nasas-webb-telescope
+    * https://www.youtube.com/watch?v=uUAvXYW5bmI - 29 Days on the Edge
 * L1 / DSCOVR
     * https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory
     * https://www.youtube.com/results?search_query=DSCOVR
@@ -24,13 +29,28 @@
 
 ## TOC
 
-* JWST
-    * Next week about JWST, this week about Lagrange
-* Lagrange points
-    * Concept
-        * 2 bodies vs 3 bodies
-    * History
-    * Saturn/Jupiter troyens
+* Intro
+    * Science disclaimer
+    * This week about Lagrange. Next week maybe JWST science.
+* History -> quick, we already have too many slides
+    * Newton, Euler, Lagrange
+    * 2 body, 3 body
+* L1
+    * Simple (but wrong and confusing) explanation
+    * Orbital speed: distance and mass
+    * Sun effect on Earth and spacecraft
+    * Earth influence
+* L2, L3
+    * Same as L1
+    * Fun fact: closer to Sun, but on a higher orbit -> barycenter
+    * Stability of L1, L2, L3
+* L4, L5
+    * Similar reasoning + Coriolis
+    * Stability of L4, L5
+    * Sun-Jupiter Trojans and Earth-Moon dust clouds
+* Why are Lagrange points useful?
+    * Communication
+    * Observation: Earth, Sun, space
 * Conclusion
 
 ## Scratchpad
@@ -142,7 +162,7 @@ One of the advantages of an NRHO is the minimal amount of communications blackou
 * [ 1:05] Lagrange 1772. Simplifications
 * [ 2:35] Gravity: Sun, Earth
 * [ 4:50] L1: lower orbit = faster orbit
-* [ 5:50] L1: Earth lower Sun's gravity, hense "fixes" the orbit's velocity
+* [ 5:50] L1: Earth lower Sun's gravity, hence "fixes" the orbit's velocity
 * [ 7:02] L2: Earth increases the Sun's gravity
 * [ 8:05] L3
 * [ 8:30] L3 is closer to Sun, but on a higher orbit.
