@@ -29,29 +29,57 @@
 
 ## TOC
 
-* Intro
+* Preface
     * Science disclaimer
     * This week about Lagrange. Next week maybe JWST science.
-* History -> quick, we already have too many slides
-    * Newton, Euler, Lagrange
-    * 2 body, 3 body
-* L1
-    * Simple (but wrong and confusing) explanation
-    * Orbital speed: distance and mass
-    * Sun effect on Earth and spacecraft
-    * Earth influence
-* L2, L3
-    * Same as L1
-    * Fun fact: closer to Sun, but on a higher orbit -> barycenter
-    * Stability of L1, L2, L3
-* L4, L5
-    * Similar reasoning + Coriolis
-    * Stability of L4, L5
-    * Sun-Jupiter Trojans and Earth-Moon dust clouds
-* Why are Lagrange points useful?
-    * Communication
-    * Observation: Earth, Sun, space
+* Introduction -> quick, we already have too many slides
+    * Lagrange points
+        * Show GIF
+        * Earth orbits the Sun
+        * Orbits are usually faster or slower (depending on the distance), and perturbed by all sorts of forces -> it's chaotic
+        * Lagrange points rotate at the speed, hence they appear *stationary*
+    * Why are Lagrange points useful? -> keep it short, go into details later
+        * Observation: Earth, Sun, space
+        * Communication
+        * Astronomers like to study the stuff that accumulates there
+    * People
+        * Kepler (1571-1630): Kepler's laws on orbital mechanics (1609)
+        * Newton (1642-1726): Newton's laws of motion (1687)
+        * Euler (1707-1783): L1, L2, L3 (1722? 1760? 1765?)
+        * Lagrange (1736-1813): L4, L5 (1772)
+    * Lagrange's breakthrough
+        * Lagrange cheated a bit
+            * 2 body (Earth-spacecraft): easy since Newton
+                * Possible to predict in the far future
+            * 3 body (Sun-Earth-spacecraft): impossible
+                * Computers are required for integrating (step by step)
+            * Lagrange assumed 2 big body and 1 small in cicular and coplanar orbits (*restricted three-body problem*)
+* Lagrange points
+    * L1
+        * Simple (but wrong and confusing) explanation -> Skip if not enough time
+        * Orbital speed: distance and mass: `v = sqrt(G*M/r)`
+        * Sun effect on Earth and spacecraft + Earth influence on spacecraft
+        * Unstable: no natural objects, but spacecrafts can be kept in place with minimal propellant
+        * Usefulness
+            * Observe the Sun or the Earth
+            * SOHO, DSCOVR
+    * L2, L3
+        * Same as L1
+        * Fun fact: closer to Sun, but on a higher orbit -> barycenter -> Skip if not enough time
+        * Usefulness
+            * Sun-Earth: observe Space -> JWST
+            * Earth-Moon: communication relay - Halo orbit
+    * L4, L5
+        * Similar reasoning. But they dont look stable
+        * With Coriolis, they are stable (move in circles)
+        * Stable: lots of stuff
+            * Sun-Jupiter: Trojans (asteroids)
+            * Earth-Moon: Kordylewski clouds (dust)
 * Conclusion
+    * Videos
+        * What Makes Lagrange Points Special Locations In Space (Scott Manley) - https://www.youtube.com/watch?v=7PHvDj4TDfM
+        * Les mystères de Lagrange (Astronogeek) - https://www.youtube.com/watch?v=KIw_KsEbl3g
+    * KSP: not working, using patched conics approximation
 
 ## Scratchpad
 
